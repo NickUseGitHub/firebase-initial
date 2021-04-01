@@ -1,0 +1,6 @@
+export { default as add } from './add'
+export { default as getDoc } from './getDoc'
+export { default as getCollection } from './getCollection'
+export { default as update } from './update'
+export { default as deleteDoc } from './deleteDoc'
+export { default as deleteField } from './deleteField'
